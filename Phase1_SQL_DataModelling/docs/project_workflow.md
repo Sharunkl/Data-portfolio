@@ -1,5 +1,3 @@
-## Feb28,2025
-
 ## Overview
 
 This project is to analyze the library dataset within a residental complex. 
